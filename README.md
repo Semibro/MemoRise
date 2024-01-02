@@ -112,7 +112,7 @@ MemoRise 는 `물체인식` 을 기반으로 물체에 `메모`를 남겨 편하
 - `Gradle` : 8.2.1 <br/>
 </details> <br/>
 
-<b>프론트엔드</b> : <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=764ABC"/> <img src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=CB3837"/> <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=Axios&logoColor=5A29E4"/> <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=333333"/><br/>
+<b>프론트엔드</b> : <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=764ABC"/> <img src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=CB3837"/> <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=Axios&logoColor=5A29E4"/> <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=333333"/><br/>
 
 <details>
 <summary>버전 상세 정보</summary>
